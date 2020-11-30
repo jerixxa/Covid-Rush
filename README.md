@@ -1,0 +1,2 @@
+# Covid-Rush
+We have come up with a fun and interactive way to educate people about Covid-19. How it is spread and  What you can do to prevent it. WE CALL IT "COVID-RUSH"  It is an endless Runner game which is characterized as an action game. Linear in design with no end, without pauses or breaks for rest and no stages or changing levels. It is quite similar to "Subway surfers" but ours is very different In terms of characters, gifts and collectable items.
